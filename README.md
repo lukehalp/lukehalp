@@ -2,7 +2,6 @@
 
 ## I'm a software development student at [DkIT][dkit].
 
-- 💾 I'm working on a puzzle based ARG.
 - 📚 I'm studying software development.
 - 🖊 I enjoy working on serverside stuff and low level code.
 - 🎮 I like playing video games, mainly Destiny 2.
